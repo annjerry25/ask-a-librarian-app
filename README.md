@@ -24,4 +24,13 @@ This design models how libraries can meet users where they are—without shame, 
 - Rapid prototyping  
 
 ## Screenshots
-(Add images here)
+![Home Screen](Screenshots/Home.png)
+
+![Find Books](Screenshots/Find%20Books.png)
+
+![Research Help](Screenshots/Research%20Help.png)
+
+![Online Resources](Screenshots/Online%20Resources.png)
+
+![I'm Stuck](Screenshots/I'm%20stuck.png)
+
